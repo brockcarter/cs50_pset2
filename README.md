@@ -10,3 +10,6 @@ ci = (pi + k) % 26
 
 
 # Vigenere
+Vigenère’s cipher improves upon Caesar’s by encrypting messages using a sequence of keys (or, put another way, a keyword). In other words, if p is some plaintext and k is a keyword (i.e., an alphbetical string, whereby A and a represent 0, while Z and z represent 25), then each letter, ci, in the ciphertext, c, is computed as:
+
+ci = (pi + kj) % 26
