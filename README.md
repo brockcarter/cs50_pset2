@@ -1,4 +1,4 @@
-## cs50_pset1
+## cs50_pset2
 
 ### Usage
 This is my solution for Problem Set 2 of Harvard’s CS50 course.  The solution contains multiple files, each with a unique solutions.
